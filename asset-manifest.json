@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Bakhtawar/static/css/main.c12c1ba5.css",
-    "main.js": "/Bakhtawar/static/js/main.bdac8c1d.js",
-    "static/js/787.c68f3faa.chunk.js": "/Bakhtawar/static/js/787.c68f3faa.chunk.js",
-    "static/media/Manchester.png": "/Bakhtawar/static/media/Manchester.4d93a3e869338486072f.png",
-    "static/media/titleimg.png": "/Bakhtawar/static/media/titleimg.e38b6289748c400e3df6.png",
-    "static/media/bootstrap.png": "/Bakhtawar/static/media/bootstrap.d5210cdeab1bc94309c4.png",
-    "static/media/html.png": "/Bakhtawar/static/media/html.2baa5b66cbd5690de886.png",
-    "static/media/logored.png": "/Bakhtawar/static/media/logored.06b544d2507d8246dfdf.png",
-    "static/media/css3.png": "/Bakhtawar/static/media/css3.952e3eea098254c7fa58.png",
-    "static/media/reactjs.png": "/Bakhtawar/static/media/reactjs.cb383f7be127b0183272.png",
-    "static/media/textutils.png": "/Bakhtawar/static/media/textutils.b93157def6ad028cfbce.png",
-    "static/media/mongo.png": "/Bakhtawar/static/media/mongo.65c8e9f70ef5695a0dba.png",
-    "static/media/javascript.ico": "/Bakhtawar/static/media/javascript.f207fb30970e11072eae.ico",
-    "index.html": "/Bakhtawar/index.html",
-    "main.c12c1ba5.css.map": "/Bakhtawar/static/css/main.c12c1ba5.css.map",
-    "main.bdac8c1d.js.map": "/Bakhtawar/static/js/main.bdac8c1d.js.map",
-    "787.c68f3faa.chunk.js.map": "/Bakhtawar/static/js/787.c68f3faa.chunk.js.map"
+    "main.css": "/bakhtawar/static/css/main.cabdaf00.css",
+    "main.js": "/bakhtawar/static/js/main.82c57a55.js",
+    "static/js/787.c68f3faa.chunk.js": "/bakhtawar/static/js/787.c68f3faa.chunk.js",
+    "static/media/Manchester.png": "/bakhtawar/static/media/Manchester.4d93a3e869338486072f.png",
+    "static/media/titleimg.png": "/bakhtawar/static/media/titleimg.e38b6289748c400e3df6.png",
+    "static/media/bootstrap.png": "/bakhtawar/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/html.png": "/bakhtawar/static/media/html.2baa5b66cbd5690de886.png",
+    "static/media/logored.png": "/bakhtawar/static/media/logored.06b544d2507d8246dfdf.png",
+    "static/media/css3.png": "/bakhtawar/static/media/css3.952e3eea098254c7fa58.png",
+    "static/media/reactjs.png": "/bakhtawar/static/media/reactjs.cb383f7be127b0183272.png",
+    "static/media/textutils.png": "/bakhtawar/static/media/textutils.b93157def6ad028cfbce.png",
+    "static/media/mongo.png": "/bakhtawar/static/media/mongo.65c8e9f70ef5695a0dba.png",
+    "static/media/javascript.ico": "/bakhtawar/static/media/javascript.f207fb30970e11072eae.ico",
+    "index.html": "/bakhtawar/index.html",
+    "main.cabdaf00.css.map": "/bakhtawar/static/css/main.cabdaf00.css.map",
+    "main.82c57a55.js.map": "/bakhtawar/static/js/main.82c57a55.js.map",
+    "787.c68f3faa.chunk.js.map": "/bakhtawar/static/js/787.c68f3faa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c12c1ba5.css",
-    "static/js/main.bdac8c1d.js"
+    "static/css/main.cabdaf00.css",
+    "static/js/main.82c57a55.js"
   ]
 }
